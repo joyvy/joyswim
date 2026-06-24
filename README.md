@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=사용자를%20생각하는%20프론트엔드%20개발자,%20신수영입니다👋&fontSize=24)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=사용자의 나은 경험을 고민하는 프론트엔드 개발자입니다👋&fontSize=24)
 
 <div align=center><h3>📚 Stacks</h3></div>
 <div align=center>
